@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SeamusDevlin
+-  Currently attending DCU
+-  Pursuing BSc in Computer Science, COMSCI2
+-  I love to participate in projects!
